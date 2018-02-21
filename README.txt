@@ -1,3 +1,1 @@
-hello
-hello
-readme changed 
+"Hello git"
